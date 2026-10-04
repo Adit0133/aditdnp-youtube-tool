@@ -16,12 +16,10 @@
 ​Arsitektur Keamanan Terenkripsi (Binary Protection): Struktur kode inti dikemas dalam bentuk biner terenkripsi (download), memastikan keamanan logika program sekaligus menjaga performa eksekusi agar tetap ringan dan cepat.
 ​4. Kelebihan & Perbedaan Dibandingkan Tool Lain
 ​Mengapa aditdnp-youtube-tool berbeda dan lebih unggul dibanding downloader konvensional biasa?
-Tool Konvensional / Skrip Biasaaditdnp-youtube-tool
-FungsionalitasBiasanya hanya fokus pada satu fungsi saja (misal: hanya download video atau hanya download MP3).Multifungsi (All-in-One): Mencakup manajemen unduhan, pemutar musik/streaming, pencarian langsung, hingga pelacakan riwayat dalam satu tempat.
-Kenyamanan PemutaranPengguna harus mengunduh file terlebih dahulu sebelum bisa mendengarkannya.Dilengkapi Fitur Streaming: Bisa langsung memutar musik via MPv tanpa menghabiskan ruang penyimpanan untuk file unduhan.
-Pengalaman PenggunaSeringkali berupa skrip baris perintah mentah (raw command) yang membingungkan pemula.Menu Interaktif: Dirancang dengan sistem menu interaktif berbasis Bash yang intuitif dan mudah dioperasikan bahkan oleh pengguna baru.
-Portabilitas & KeamananSkrip terbuka rentan diubah atau rusak, serta berukuran besar.Terenkripsi & Ringan: Dikemas dalam bentuk biner terenkripsi yang aman, sangat ringan dijalankan di sumber daya Termux yang terbatas, serta mudah di-clone ke perangkat lain.
-
+*Multifungsi (All-in-One): Jika tool biasa hanya fokus pada satu fungsi saja, tool ini menggabungkan manajemen unduhan, pemutar musik atau streaming, pencarian lagu langsung, hingga pelacakan riwayat aktivitas dalam satu tempat.  
+*Fitur Streaming Langsung: Pengguna tidak perlu repot mendengarkan file fisik terlebih dahulu karena sudah dilengkapi integrasi pemutaran langsung via MPv.  
+*Antarmuka Interaktif: Dirancang dengan sistem menu interaktif berbasis Bash yang intuitif, sehingga jauh lebih mudah dioperasikan di terminal dibandingkan skrip baris perintah mentah.  
+Aman dan Ringan: Dikemas dalam bentuk biner terenkripsi yang sangat ringan dijalankan pada sumber daya Termux serta *aman dari perubahan kode yang tidak diinginkan.  
 ## carane masang nang hp :
 
 ```bash
